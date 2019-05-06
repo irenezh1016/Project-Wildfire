@@ -31,7 +31,7 @@ Potential questions to answer:
 -	What factor contributes the most to the burning time of a wildfire? (firefighting resources, fire size, or close to residential areas ??)
 -	What kind of environment is most likely to trigger a wildfire? (especially human-caused wildfires)
 
-### Section III: Machine Learning
+### Section III: Modeling Wildfires
 This section aims at exploring different machine learning techniques to:
 -	Classify the causes of historically unclassified wildfires through other available information (weather, date, burning time, and so on).
 o	K Nearest Neighbors (kNN)

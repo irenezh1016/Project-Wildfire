@@ -51,6 +51,7 @@ This section will summarize the previous findings and give top 3 recommendations
 1)	Lessons learnt from the past human-caused wildfires.
 2)	What’s the best strategy to allocate firefighting resources for a potential destructive wildfire?
 3)	What can be done to minimize risks and potential damage?
+
 In addition, this section will also give limitations of this project and point out areas for future research and improvement.
 
 

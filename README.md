@@ -1,6 +1,6 @@
 # TDI_Challenge
 
-# Project: Analyzing US wildfire 
+# Project: Analyzing US Wildfires
 ## Motivation: 
 Wildfire is one of the most destructive disasters that are often caused by human. Averagely, there are more than 100,000 wildfires in the US every year, clearing 4 to 5 million acres of land and causing huge economic loss. However, naturally occurred wildfires play an important role in the ecosystem. This project aims at providing insights on wildfire, its causes and behavior, therefore helps to make useful recommendations to increase public safety, minimize economic damage from future wildfires.
 

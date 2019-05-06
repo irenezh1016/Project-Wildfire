@@ -19,9 +19,11 @@ A web application that contains:
 
 ### Structure of the project:
 #### Section I: Preparing Data
-The main dataset for this project is from USDA Forest Service: [link](https://www.fs.usda.gov/rds/archive/Product/RDS-2013-0009.4/)
-In order to provide a deeper understanding on why wildfires occurred, geographical and weather information will also be added based on data availability.
 This section will focus on cleaning data and generating necessary variables to the following exploratory analysis and data visualization. 
+
+The main dataset for this project is from USDA Forest Service: [link](https://www.fs.usda.gov/rds/archive/Product/RDS-2013-0009.4/)
+
+In order to provide a deeper understanding on why wildfires occurred, geographical and weather information will also be added based on data availability. 
 
 #### Section II: Exploratory Analysis and Data Visualization
 This section will focus on conducting statistical analysis on historical data to provide insights on when, where, and why wildfires occurred. This section will also identify the most destructive wildfires in the sample period and analysis their reasons, location, burning time, and, other environmental/geographical factors (e.g. weather, temperature, nearby camping sites, residential areas). This will provide a deeper understanding on where the most destructive wildfires are most likely to happen. 

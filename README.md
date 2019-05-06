@@ -3,6 +3,7 @@
 # Project: Analyzing US wildfire 
 ## Motivation: 
 Wildfire is one of the most destructive disasters that are often caused by human. Averagely, there are more than 100,000 wildfires in the US every year, clearing 4 to 5 million acres of land and causing huge economic loss. However, naturally occurred wildfires play an important role in the ecosystem. This project aims at providing insights on wildfire, its causes and behavior, therefore helps to make useful recommendations to increase public safety, minimize economic damage from future wildfires.
+
 Some empirical work on wildfire modelling has been done in academia and multiple machine learning models on predicting wildfires have been tested and analyzed. This project will focus on transferring academic knowledge into practical use, especially on applying it to the case of United States. The project aims at providing an easy-to-understand web app which can help non-technical background people to learn more about how machine learning models can deepen general public’s understanding on wildfires and reduce future risks.
 
 ## Targeted problems: 

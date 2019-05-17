@@ -36,7 +36,7 @@ Potential questions to answer:
 This section aims at exploring different machine learning techniques to:
 -	Classify the causes of historically unclassified wildfires through other available information (weather, date, burning time, and so on). \
 o	K Nearest Neighbors (kNN)\
-o	Clustering: K-means, hierarchical clustering\
+o	Clustering: K-means, hierarchical clustering
 
 -	Construct algorithms to model the causes and predict probability of wildfires in the US. \
 o	Linear regression\
@@ -45,7 +45,7 @@ o	Decision Tree\
 o	Random Forest\
 o	Boosting regression trees (BRT)\
 o	Support Vector Machines (SVM)\
-o	And other appropriate techniques.\
+o	And other appropriate techniques.
 
 -	Test models and optimize processes.
 

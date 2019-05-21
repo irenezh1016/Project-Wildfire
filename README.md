@@ -22,8 +22,13 @@ A web application that contains:
 ## Structure of the project:
 ### Section I: Preparing Data
 This section will focus on preparing data (including merging other necessary weather or geographical data to the main dataset), cleaning data, and generating necessary variables to the following exploratory analysis and data visualization. 
-The main dataset for this project is from USDA Forest Service: [link](https://www.fs.usda.gov/rds/archive/Product/RDS-2013-0009.4/)
-One caveat is that weather information is missing from the main dataset. Adding weather information could be very useful to analyze and predict wildfire causes. There are multiple sources for daily weather records by location published by NOAA [link](https://www.ncdc.noaa.gov/cdo-web/) and earth observation data published by NASA [link](https://earthdata.nasa.gov/earth-observation-data). Based on the fire date and location information in the main dataset, other information can be matched to each entry of the wildfire in the main dataset. In order to provide a deeper understanding on why wildfires occurred, geographical and weather information will be added based on data availability.
+
+The main dataset for this project is from [USDA Forest Service](https://www.fs.usda.gov/rds/archive/Product/RDS-2013-0009.4/)
+One caveat is that weather information is missing from the main dataset. Adding weather information could be very useful to analyze and predict wildfire causes. There are multiple sources for daily weather records by location published by [NOAA](https://www.ncdc.noaa.gov/cdo-web/) and earth observation data published by [NASA](https://earthdata.nasa.gov/earth-observation-data). 
+
+Geographical information such as location of residential and camping areas is also important to understand the human-caused wildfires. This information can be accessed through google maps [API](https://developers.google.com/maps/documentation/)
+
+Based on the fire date and location information in the main dataset, other information can be matched to each entry of the wildfire in the main dataset. In order to provide a deeper understanding on why wildfires occurred, geographical and weather information will be added based on data availability.
 
 ### Section II: Exploratory Analysis and Data Visualization
 This section will focus on conducting statistical analysis on historical data to provide insights on when, where, and why wildfires occurred. This section will also identify the most destructive wildfires in the sample period and analysis their reasons, location, burning time, and, other environmental/geographical factors (e.g. weather, temperature, nearby camping sites, residential areas). This will provide a deeper understanding on where the most destructive wildfires are most likely to happen. 
@@ -48,6 +53,13 @@ o	Support Vector Machines (SVM)\
 o	And other appropriate techniques.
 
 -	Test models and optimize processes.
+
+#### References: 
+Castelli, M., Vanneschi, L., & Popovič, A. (2015). Predicting burned areas of forest fires: an artificial intelligence approach. Fire ecology, 11(1), 106-118.\
+Kern, A. N., Addison, P., Oommen, T., Salazar, S. E., & Coffman, R. A. (2017). Machine learning based predictive modeling of debris flow probability following wildfire in the intermountain Western United States. Mathematical Geosciences, 49(6), 717-735.\
+Rodrigues, M., & de la Riva, J. (2014). An insight into machine-learning algorithms to model human-caused wildfire occurrence. Environmental Modelling & Software, 57, 192-201.\
+Vilar, L., Gómez, I., Martínez-Vega, J., Echavarría, P., Riaño, D., & Martín, M. P. (2016). Multitemporal modelling of socio-economic wildfire drivers in central Spain between the 1980s and the 2000s: comparing generalized linear models to machine learning algorithms. PLoS One, 11(8), e0161344.
+
 
 ### Section IV: Summary and Recommendations
 This section will summarize the previous findings and give top 3 recommendations on:

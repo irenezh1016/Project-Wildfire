@@ -7,10 +7,10 @@ Wildfire is one of the most destructive disasters that are often caused by human
 Some empirical work on wildfire modelling has been done in academia and multiple machine learning models on predicting wildfires have been tested and analyzed. This project will focus on transferring academic knowledge into practical use, especially on applying it to the case of United States. The project aims at providing an easy-to-understand web app which can help non-technical background people to learn more about how machine learning models can deepen general public’s understanding on wildfires and reduce future risks.
 
 ## Targeted problems: 
-1)	Wildfires are costly, and firefighting is also costly.
+1)	Wildfires are costly, and firefighting is also costly.\
 Analyzing the geographical information on where and when the wildfires occurred could provide useful information to identify high-risk areas that are vulnerable to wildfires, therefore help making better strategies on where fire-fighting forces are located and how to improve respond time to wildfires. At the same time, this will deepen public’s understanding on wildfires and alert them to avoid doing activities in high risky areas that can potentially cause a wildfire. 
 
-2)	Reasons for many destructive wildfires are not identified.
+2)	Reasons for many destructive wildfires are not identified.\
 Reasons for lot of wildfires that burned millions of acres are missing or unidentified. Knowing the reasons for these wildfires could be crucial for future preventive measures on human-caused wildfires. Using machine learning models to predict the causes and risks of wildfires can help with planning preventive measures. 
 
 This project aims at providing insightful information from analyzing historical data and utilizing appropriate machine learning techniques to solve above problems.

@@ -25,10 +25,10 @@ A web application that contains:
 ### Section I: Preparing Data
 This section will focus on preparing data (including merging other necessary weather or geographical data to the main dataset), cleaning data, and generating necessary variables to the following exploratory analysis and data visualization. 
 
-The main dataset for this project is from [USDA Forest Service](https://www.fs.usda.gov/rds/archive/Product/RDS-2013-0009.4/) (about 758 MB)
+The main dataset for this project is from [USDA Forest Service](https://www.fs.usda.gov/rds/archive/Product/RDS-2013-0009.4/) (about 758 MB).
 One caveat is that weather information is missing from the main dataset. Adding weather information could be very useful to analyze and predict wildfire causes. There are multiple sources for daily weather records by location published by [NOAA](https://www.ncdc.noaa.gov/cdo-web/) and earth observation data published by [NASA](https://earthdata.nasa.gov/earth-observation-data). 
 
-Geographical information such as location of residential and camping areas is also important to understand the human-caused wildfires. This information can be accessed through google maps [API](https://developers.google.com/maps/documentation/)
+Geographical information such as location of residential and camping areas is also important to understand the human-caused wildfires. This information can be accessed through google maps [API](https://developers.google.com/maps/documentation/).
 
 Based on the fire date and location information in the main dataset, other information can be matched to each entry of the wildfire in the main dataset. In order to provide a deeper understanding on why wildfires occurred, geographical and weather information will be added based on data availability.
 

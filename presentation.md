@@ -14,7 +14,8 @@
 # Thank you!
 ### More information:
 Project proposal: https://github.com/irenezh1016/TDI_Challenge/blob/master/README.md \
-Code:
+Code: \
+Pictures: https://unsplash.com/
 
 # Appendix:
 <img src= https://user-images.githubusercontent.com/12699202/58129249-5f6ab000-7be7-11e9-8333-b21bd7b2b189.jpg>

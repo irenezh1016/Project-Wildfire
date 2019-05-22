@@ -16,6 +16,7 @@
 Project proposal: https://github.com/irenezh1016/TDI_Challenge/blob/master/README.md \
 Code:
 
+# Appendix:
 <img src= https://user-images.githubusercontent.com/12699202/58129249-5f6ab000-7be7-11e9-8333-b21bd7b2b189.jpg>
 <img src= https://user-images.githubusercontent.com/12699202/58129250-5f6ab000-7be7-11e9-96ac-28c42554a1cc.jpg>
 

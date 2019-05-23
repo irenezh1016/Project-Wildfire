@@ -12,7 +12,7 @@
 # Thank you!
 ### More information:
 Project proposal: https://github.com/irenezh1016/TDI_Challenge/blob/master/README.md \
-Code: \
+Code: https://github.com/irenezh1016/TDI_Challenge/blob/master/US_wildfire_project_updates.ipynb \
 Pictures: https://unsplash.com/
 
 # Appendix:

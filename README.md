@@ -19,7 +19,7 @@ A dashboard that contains:
 2)	Deatiled breakdown of wildfire causes.
 3)	Prediction of the causes and risks of wildfires.
 
-Code for a dashboard made using Dash and Plotly can be found in the app.py file. 
+Code for a dashboard made using Dash and Plotly can be found in the [app.py](https://github.com/irenezh1016/Project-Wildfire/blob/master/app.py) file. 
 
 ## Structure of the project:
 ### Section I: Preparing Data
@@ -56,7 +56,7 @@ o	And other appropriate techniques.
 
 -	Test models and optimize processes.
 
-The conclusion here is that Random Forest and Gradient Boosting Trees perform the best among all the models. 
+The conclusion here is that Random Forest and Gradient Boosting Trees perform the best among all the models. Code is here: [Machine Learning Models_Wildfire Prediction.ipynb](https://github.com/irenezh1016/Project-Wildfire/blob/master/Machine%20Learning%20Models_Wildfire%20Prediction.ipynb)
 
 #### References: 
 Castelli, M., Vanneschi, L., & Popovič, A. (2015). Predicting burned areas of forest fires: an artificial intelligence approach. Fire ecology, 11(1), 106-118.\

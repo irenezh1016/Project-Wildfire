@@ -14,10 +14,10 @@ Reasons for lot of wildfires that burned millions of acres are missing or uniden
 This project aims at providing insightful information from analyzing historical data and utilizing appropriate machine learning techniques to solve above problems.
 
 ## Finishing product:
-A web application that contains: 
+A dashboard that contains: 
 1)	Interactive page where users can select a state and view relevant statistical analysis and data visualizations on historical data. 
-2)	Prediction of the causes and risks of wildfires.
-3)	Useful recommendations on future improvements and potential preventive measures.
+2)	Deatiled breakdown of wildfire causes.
+3)	Prediction of the causes and risks of wildfires.
 
 ## Structure of the project:
 ### Section I: Preparing Data
@@ -54,20 +54,11 @@ o	And other appropriate techniques.
 
 -	Test models and optimize processes.
 
+The conclusion here is that Random Forest and Gradient Boosting Trees perform the best among all the models. 
+
 #### References: 
 Castelli, M., Vanneschi, L., & Popovič, A. (2015). Predicting burned areas of forest fires: an artificial intelligence approach. Fire ecology, 11(1), 106-118.\
 Kern, A. N., Addison, P., Oommen, T., Salazar, S. E., & Coffman, R. A. (2017). Machine learning based predictive modeling of debris flow probability following wildfire in the intermountain Western United States. Mathematical Geosciences, 49(6), 717-735.\
 Rodrigues, M., & de la Riva, J. (2014). An insight into machine-learning algorithms to model human-caused wildfire occurrence. Environmental Modelling & Software, 57, 192-201.\
 Vilar, L., Gómez, I., Martínez-Vega, J., Echavarría, P., Riaño, D., & Martín, M. P. (2016). Multitemporal modelling of socio-economic wildfire drivers in central Spain between the 1980s and the 2000s: comparing generalized linear models to machine learning algorithms. PLoS One, 11(8), e0161344.
-
-
-### Section IV: Summary and Recommendations
-This section will summarize the previous findings and give top 3 recommendations on:
-1)	Lessons learnt from the past human-caused wildfires.
-2)	What’s the best strategy to allocate firefighting resources for a potential destructive wildfire?
-3)	What can be done to minimize risks and potential damage?
-
-In addition, this section will also give limitations of this project and point out areas for future research and improvement.
-
-
 

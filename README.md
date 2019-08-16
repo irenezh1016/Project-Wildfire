@@ -19,6 +19,8 @@ A dashboard that contains:
 2)	Deatiled breakdown of wildfire causes.
 3)	Prediction of the causes and risks of wildfires.
 
+Code for a dashboard made using Dash and Plotly can be found in the app.py file. 
+
 ## Structure of the project:
 ### Section I: Preparing Data
 This section will focus on preparing data (including merging other necessary weather or geographical data to the main dataset), cleaning data, and generating necessary variables to the following exploratory analysis and data visualization. 

@@ -21,6 +21,10 @@ A dashboard that contains:
 
 Code for a dashboard made using Dash and Plotly can be found in the [app.py](https://github.com/irenezh1016/Project-Wildfire/blob/master/app.py) file. 
 
+<img width="1005" alt="WRIS" src="https://user-images.githubusercontent.com/12699202/65459126-1dfc4280-de1d-11e9-8045-000696c9227d.PNG">
+<img width="1090" alt="WRIS3" src="https://user-images.githubusercontent.com/12699202/65459127-1dfc4280-de1d-11e9-8f2e-f202161bbbf9.PNG">
+
+
 ## Structure of the project:
 ### Section I: Preparing Data
 This section will focus on preparing data (including merging other necessary weather or geographical data to the main dataset), cleaning data, and generating necessary variables to the following exploratory analysis and data visualization. 

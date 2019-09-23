@@ -60,7 +60,9 @@ o	And other appropriate techniques.
 
 -	Test models and optimize processes.
 
-The conclusion here is that Random Forest and Gradient Boosting Trees perform the best among all the models. Code is here: [Machine Learning Models_Wildfire Prediction.ipynb](https://github.com/irenezh1016/Project-Wildfire/blob/master/Machine%20Learning%20Models_Wildfire%20Prediction.ipynb)
+After implementing all the ML models above, the conclusion here is that Random Forest and Gradient Boosting Trees perform the best among all the models. In addition, because of the highly imbalance nature of the dataset, meaning large scale wildfires are very rare, representing only about 2% of the whole dataset, and 85% of wildfires are caused by human instead of nature. I used SMOTE (Synthetic Minority Over-sampling Technique) to deal with imbalanced data, and found out the recall got improved by close to 50%. 
+
+Code is here: [Machine Learning Models_Wildfire Prediction.ipynb](https://github.com/irenezh1016/Project-Wildfire/blob/master/Machine%20Learning%20Models_Wildfire%20Prediction.ipynb)
 
 #### References: 
 Castelli, M., Vanneschi, L., & Popovič, A. (2015). Predicting burned areas of forest fires: an artificial intelligence approach. Fire ecology, 11(1), 106-118.\

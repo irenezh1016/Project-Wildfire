@@ -46,9 +46,10 @@ Potential questions to answer:
 ### Section III: Modeling Wildfires
 This section aims at exploring different machine learning techniques to:
 -	Classify the causes of historically unclassified wildfires through other available information (weather, date, burning time, and so on). \
+
 -	Construct algorithms to model the causes and predict probability of wildfires in the US. \
 
-Models deployed:
+Models deployed: \
 o	Logistic regression\
 o	Random Forest\
 o	Boosting regression trees (BRT)\
